@@ -1,6 +1,8 @@
-# 配置环境
+[TOC]
 
-## 配置Win VSCode环境
+# 1 配置环境
+
+## 1.1 配置Win VSCode环境
 
 [mingw软件包地址](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/) 
 
