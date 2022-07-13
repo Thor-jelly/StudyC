@@ -2,7 +2,7 @@
 
 # 1 配置环境
 
-## 1.1 配置Win VSCode环境
+## 1.1 配置Win VSCode环境 ->> 我下载的x86_64-win32-seh
 
 [mingw软件包地址](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/mingw-w64-release/) 
 
