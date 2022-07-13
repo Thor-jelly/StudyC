@@ -1,6 +1,3 @@
-# StudyC
-c/c++学习
-
 # 配置环境
 
 ## 配置Win VsCode环境
